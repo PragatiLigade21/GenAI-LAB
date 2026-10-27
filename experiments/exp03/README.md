@@ -60,4 +60,4 @@ The complete source code is available in the Jupyter Notebook:
 ## Live Demo
 https://471714f143894a0ff6.gradio.live
 
-<img width="1040" height="567" alt="image" src="https://github.com/user-attachments/assets/c56a4cd2-11a8-4afc-8a77-9a21b96a8b81" />
+
