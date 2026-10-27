@@ -28,4 +28,4 @@ To generate AI images from text prompts using Stable Diffusion.
 See `Exe_4_ImageGeneration.ipynb`.
 
 ## Live Demo
-Coming soon.
+(https://2403efb86867929c98.gradio.live)
