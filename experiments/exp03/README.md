@@ -58,5 +58,5 @@ The complete source code is available in the Jupyter Notebook:
 - What is generative AI?
 
 ## Live Demo
-
+https://471714f143894a0ff6.gradio.live
 
